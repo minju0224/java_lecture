@@ -2,7 +2,7 @@ package com.sction05.calender;
 
 import java.util.Date;
 
-public class Application {
+public class Application1 {
     public static void main(String[] args) {
         /*  java.util.Date 클래스 사용법을 이해하고 사용할 수 있다. */
 
