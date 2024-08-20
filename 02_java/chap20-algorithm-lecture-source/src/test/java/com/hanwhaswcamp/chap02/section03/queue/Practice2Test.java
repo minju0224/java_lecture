@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 import static org.junit.jupiter.params.provider.Arguments.arguments;
 
 /* 트럭 - 백준 (13335) */
-public class Practice2Tests {
+public class Practice2Test {
 
     private Practice2 practice2;
 

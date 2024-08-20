@@ -1,4 +1,4 @@
-package com.hanwhaswcamp.chap02.section01.stack;
+package com.hanwhaswcamp.chap02.section02.stack;
 
 import java.util.EmptyStackException;
 

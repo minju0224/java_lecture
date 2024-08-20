@@ -1,5 +1,6 @@
 package com.hanwhaswcamp.chap02.section01.stack;
 
+import com.hanwhaswcamp.chap02.section02.stack.Practice1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -9,7 +10,6 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
 /*  괄호 - 백준 (9012) */
 class Practice1Test {
 
