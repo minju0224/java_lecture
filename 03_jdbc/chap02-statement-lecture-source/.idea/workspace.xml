@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3aa2cce3-cc1a-4dc1-b566-e98b3538e8e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section01/graph_search/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section01/graph_search/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section01/graph_search/Application2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section01/graph_search/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section01/graph_search/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section02/tree_search/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap04/section02/tree_search/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap05/section01/greedy/Application7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Application8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap06/section01/dp/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section01/graph_search/Application1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section01/graph_search/Application2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section01/graph_search/Application2_2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section01/graph_search/Application3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section01/graph_search/Application4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section02/tree_search/Application1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap04/section02/tree_search/Application2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap05/section01/greedy/Application7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/Application8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/test/java/com/hanwhaswcamp/chap06/section01/dp/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/src/main/java/com/hanwhaswcamp/section01/connection/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/src/main/java/com/hanwhaswcamp/section01/connection/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/src/main/java/com/hanwhaswcamp/section01/connection/jdbc-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap01-connection-lecture-source/src/main/java/com/hanwhaswcamp/section02/template/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculatorimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculatorimpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/OuterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/OuterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section02/functionalinterface/Application5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/ssection03/references/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection01/generation/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection01/generation/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection01/generation/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection01/generation/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection02/intermediate/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Applicationn3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Applicationn3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap16-stream-lecture-source/src/main/java/com/hanwhaswcamp/section02/uses/subsection3/terminal/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section01/thread/Tank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section02/deamonthread/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section02/deamonthread/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Buffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Buffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap17-thread-lecture-source/src/main/java/com/hanwhaswcamp/section03/snyc/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/NumberValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/NumberValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section01/jupiter/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section02/assertj/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/main/java/com/hanwahaswcamp/assertions/section02/assertj/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/test/java/com/hanwhaswcamp/assertions/section01/jupiter/JupiterAssertioinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/test/java/com/hanwhaswcamp/assertions/section01/jupiter/JupiterAssertioinsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/test/java/com/hanwhaswcamp/assertions/section02/assertj/AssertJTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap18-assertions-lecture-source/src/test/java/com/hanwhaswcamp/assertions/section02/assertj/AssertJTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap19-junit-lecture-source/src/test/java/com/hanwhaswcamp/section01/lifecycle/LifeCycleAnnotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap19-junit-lecture-source/src/test/java/com/hanwhaswcamp/section01/lifecycle/LifeCycleAnnotationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap19-junit-lecture-source/src/test/java/com/hanwhaswcamp/sectiono02/additional/AdditionalAnnotationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap19-junit-lecture-source/src/test/java/com/hanwhaswcamp/sectiono02/additional/AdditionalAnnotationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap02/section07/graph/DirectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap20-algorithm-lecture-source/src/main/java/com/hanwhaswcamp/chap02/section07/graph/DirectedGraph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/aggregate/BloodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/aggregate/BloodType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/aggregate/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/aggregate/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/run/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/run/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/stream/MyObjectOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap99-comprehensive-lecture-source/src/main/java/com/hanwhaswcamp/testapp/stream/MyObjectOutputStream.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2lAvyfDm5b82mJWEvD8Mc9Zse6G" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aa2cce3-cc1a-4dc1-b566-e98b3538e8e4" name="Changes" comment="" />
+      <created>1724635952372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724635952372</updated>
+      <workItem from="1724635953451" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
