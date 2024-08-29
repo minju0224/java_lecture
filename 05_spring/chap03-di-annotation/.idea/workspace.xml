@@ -4,18 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b9e7e5e-2f31-4f08-a65a-515796b8ed97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/common/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/common/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/common/PersonalAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/xmlconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/javaconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/hanwhaswcamp/section01/autowired/subsection01/fild/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/hanwhaswcamp/section01/autowired/subsection01/fild/BookService.java" afterDir="false" />
+    <list default="true" id="d2b070e4-3ad9-46b3-96b7-f6266ceb472a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/hanwhaswcamp/section02/javaconfig/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/java/com/hanwhaswcamp/section02/javaconfig/ContextConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/common/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection01/fild/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection01/fild/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection02/constructor/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection02/constructor/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection03/setter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/autowired/subsection03/setter/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/common/Charmander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/common/Pikachu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/common/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/common/Squirtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection01/primary/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection01/primary/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection02/qualifier/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection02/qualifier/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection03/collection/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection03/collection/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection04/resource/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection04/resource/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection05/inject/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/subsection05/inject/PokemonService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" afterDir="false" />
@@ -183,8 +197,10 @@
       <change beforePath="$PROJECT_DIR$/../../04_servlet/servlet/src/main/java/com/hanwhaswcamp/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_servlet/servlet/src/main/java/com/hanwhaswcamp/servlet/LoginServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap01-ioc-container/src/main/resources/section01/xmlconfig/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-ioc-container/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap01-ioc-container/src/main/resources/section03/annotationconfig/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-ioc-container/src/main/resources/section03/annotationconfig/spring-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/section01/xmlconfig/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-dependency-injection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/resources/section01/xmlconfig/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-dependency-injection/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +216,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -208,30 +223,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2lJWi71gFnpfJh12iQRxmHpRlJO" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2lJd4JKxv40Hqxi9dhRMMplvIlR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.chap02-dependency-injection [:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap03-di-annotation [:Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/05_spring/chap03-di-annotation/src/main/java/com/hanwhaswcamp/section02/subsection05/inject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Lecture\05_spring\chap03-di-annotation\src\main\java\com\hanwhaswcamp\section02\subsection05\inject" />
+      <recent name="C:\Lecture\05_spring\chap03-di-annotation\src\main\java\com\hanwhaswcamp\section02\subsection04\resource" />
+      <recent name="C:\Lecture\05_spring\chap03-di-annotation\src\main\java\com\hanwhaswcamp\section02\subsection03\collection" />
+      <recent name="C:\Lecture\05_spring\chap03-di-annotation\src\main\java\com\hanwhaswcamp\subsection02\qualifier" />
+      <recent name="C:\Lecture\05_spring\chap03-di-annotation\src\main\java\com\hanwhaswcamp\section01\autowired\subsection03\setter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hanwhaswcamp.section01.autowired.subsection02.constructor" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -243,13 +271,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7b9e7e5e-2f31-4f08-a65a-515796b8ed97" name="Changes" comment="" />
-      <created>1724898786489</created>
+      <changelist id="d2b070e4-3ad9-46b3-96b7-f6266ceb472a" name="Changes" comment="" />
+      <created>1724901922704</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1724898786489</updated>
-      <workItem from="1724898787531" duration="3087000" />
-      <workItem from="1724901983001" duration="728000" />
+      <updated>1724901922704</updated>
+      <workItem from="1724901923774" duration="9938000" />
     </task>
     <servers />
   </component>
