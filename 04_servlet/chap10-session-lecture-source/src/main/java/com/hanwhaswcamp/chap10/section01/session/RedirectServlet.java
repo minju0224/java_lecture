@@ -1,4 +1,4 @@
-package com.hanwhaswcamp.chap10.section01.sesstion;
+package com.hanwhaswcamp.chap10.section01.session;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

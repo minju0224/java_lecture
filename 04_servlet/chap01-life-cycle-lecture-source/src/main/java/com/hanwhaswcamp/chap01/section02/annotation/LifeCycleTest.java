@@ -1,4 +1,4 @@
-package com.hanwhaswcamp.chap01.section01.xml;
+package com.hanwhaswcamp.chap01.section02.annotation;
 
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletException;
@@ -8,7 +8,9 @@ import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 
 import java.io.IOException;
-import java.util.Iterator;
+/* loadOnStartUp : 서버 시작 시점에 인스턴스 생성 및 초기화 메소드 호출
+* 전달하는 숫자는 우선 순위로 숫자가 낮을 수록 우선 순위가 높다. */
+@WebServlet(value = "/annotation-lifecycle", loadOnStartup = 1)
 /* 기본 생성자*/
 public class LifeCycleTest extends HttpServlet {
     public LifeCycleTest() {

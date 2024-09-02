@@ -18,7 +18,11 @@ public class JDBCTemplate {
             Class.forName(driver);
             con = DriverManager.getConnection(url, user, password);
 //            con = DriverManager.getConnection(url, props);  -> props 파일에서 user, password 키 값을 읽어서 처리
-            System.out.println("con = " + con);
+
+            // 자동 커밋 설정을 수동 커밋 설정으로 변경하여 서비스에서 처리할 수 있도록 한다.
+            con.setAutoCommit(false);
+
+//            System.out.println("con = " + con);
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
@@ -56,4 +60,26 @@ public class JDBCTemplate {
             throw new RuntimeException(e);
         }
     }
+
+    public static void commit(Connection con) {
+        try {
+            if (con != null && !con.isClosed()) {
+                con.commit();
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    public static void rollback(Connection con) {
+        try {
+            if(con != null && ! con.isClosed()){
+                con.rollback();
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+
 }

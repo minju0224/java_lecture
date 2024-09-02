@@ -1,6 +1,6 @@
-package com.hanwhaswcamp.section02.assertj;
+package com.hanwhaswcamp.assertions.section02.assertj;
 
-import com.hanwahaswcamp.section02.assertj.Member;
+import com.hanwahaswcamp.assertions.section02.assertj.Member;
 import org.assertj.core.api.Assertions;
 import org.assertj.core.api.AssertionsForClassTypes;
 import org.junit.jupiter.api.DisplayName;
@@ -8,6 +8,8 @@ import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
 import java.time.Month;
+import java.util.Arrays;
+import java.util.List;
 
 public class AssertJTests {
     /* 1. 문자열 테스트  */
@@ -81,6 +83,17 @@ public class AssertJTests {
     @DisplayName("filtering assertions 테스트 하기")
     void testFilteringAssertions() {
         Member member1 = new Member(1,"user01","유관순",16);
-        
+        Member member2 = new Member(2,"user02","홍길동",20);
+        Member member3 = new Member(3,"user03","이순신",40);
+        Member member4 = new Member(4,"user04","임꺽정",43);
+        Member member5 = new Member(5,"user05","신사임당",19);
+
+        List<Member> members = Arrays.asList(member1, member2, member3, member4, member5);
+
+        Assertions.assertThat(members)
+//                .filteredOn(member -> member.getAge() > 20)
+//                .containsOnly(member3, member4);
+                .filteredOn("age",20)
+                .containsOnly(member2);
     }
 }

@@ -1,4 +1,4 @@
-package com.hanwahaswcamp.section01.jupiter;
+package com.hanwahaswcamp.assertions.section01.jupiter;
 
 public class Person {
     private String fistName;

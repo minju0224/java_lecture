@@ -66,12 +66,44 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/common/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/config/jdbc-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/statement/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section01/statement/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/prepared/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section02/prepared/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section03/sqlinjection/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hanwhaswcamp/section03/sqlinjection/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/common/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/config/jdbc-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/MenuRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section01/insert/mapper/menu-mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section02/update/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section02/update/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section02/update/MenuRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section02/update/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section03/delete/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section03/delete/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section03/delete/MenuRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/hanwhaswcamp/section03/delete/MenuService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_java/chap15-lambda-lecture-source/src/main/java/com/hanwhaswcamp/section01/intro/Calculator.java" afterDir="false" />
@@ -135,25 +167,53 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2lAvyfDm5b82mJWEvD8Mc9Zse6G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.chap02-statement-lecture-source [:Application1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap02-statement-lecture-source [:Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Lecture\03_jdbc\chap02-statement-lecture-source\src\main\java\com\hanwhaswcamp\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hanwhaswcamp.section03.sqlinjection" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -170,7 +230,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724635952372</updated>
-      <workItem from="1724635953451" duration="2000" />
+      <workItem from="1724635953451" duration="6858000" />
+      <workItem from="1724643152667" duration="2686000" />
+      <workItem from="1724655852362" duration="9000" />
     </task>
     <servers />
   </component>

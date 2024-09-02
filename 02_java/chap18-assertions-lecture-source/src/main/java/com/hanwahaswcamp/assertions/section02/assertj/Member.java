@@ -1,4 +1,4 @@
-package com.hanwahaswcamp.section02.assertj;
+package com.hanwahaswcamp.assertions.section02.assertj;
 
 public class Member {
     private int sequence;

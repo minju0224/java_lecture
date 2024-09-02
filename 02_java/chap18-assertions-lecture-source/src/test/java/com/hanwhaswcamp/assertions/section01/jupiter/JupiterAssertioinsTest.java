@@ -1,8 +1,8 @@
-package com.hanwhaswcamp.section01.jupiter;
+package com.hanwhaswcamp.assertions.section01.jupiter;
 
-import com.hanwahaswcamp.section01.jupiter.Calculator;
-import com.hanwahaswcamp.section01.jupiter.NumberValidation;
-import com.hanwahaswcamp.section01.jupiter.Person;
+import com.hanwahaswcamp.assertions.section01.jupiter.Calculator;
+import com.hanwahaswcamp.assertions.section01.jupiter.NumberValidation;
+import com.hanwahaswcamp.assertions.section01.jupiter.Person;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

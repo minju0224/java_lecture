@@ -105,7 +105,7 @@ public class DirectedGraph<T> {
     }
 
     /* 두 노드 간의 경로가 있는지 확인하는 메서드 구현하기
-    * -> 테스트 클래스에서 테스트 메소드로 확인 */
+     * -> 테스트 클래스에서 테스트 메소드로 확인 */
     public boolean hasPath(T start, T end) {
         visited = new ArrayList<>();
 //         1. DFS 사용 버전
@@ -115,8 +115,8 @@ public class DirectedGraph<T> {
 //        return hasPathBFS(start, end, visited);
 
 //        3. 재귀함수 이용 DFS
-        UsingRecursionHelper(start, visited);
-        if(visited.contains(end)) return true;
+        UsingRecursionHelper(start, end, visited);
+        if (visited.contains(end)) return true;
         else return false;
     }
 
@@ -128,17 +128,19 @@ public class DirectedGraph<T> {
         while (!queue.isEmpty()) {
             T vertex = queue.poll();
 
-            if (!visited.contains(vertex)) {
-                visited.add(vertex);
-                for (T v : adjList.getOrDefault(vertex, new ArrayList<>())) {
-                    if (!visited.contains(v)) {
-                        queue.offer(v);
-                        if(v.equals(end)) {
-                            return true;
-                        }
+            if (vertex.equals(end)) return true;
+
+            visited.add(vertex);
+
+            for (T v : adjList.getOrDefault(vertex, new ArrayList<>())) {
+                if (!visited.contains(v)) {
+                    queue.offer(v);
+                    if (v.equals(end)) {
+                        return true;
                     }
                 }
             }
+
 
         }
         return false;
@@ -154,7 +156,7 @@ public class DirectedGraph<T> {
                 for (T v : adjList.getOrDefault(vertex, new ArrayList<>())) {
                     if (!visited.contains(v)) {
                         stack.push(v);
-                        if(v.equals(end)) {
+                        if (v.equals(end)) {
                             return true;
                         }
                     }
@@ -164,15 +166,19 @@ public class DirectedGraph<T> {
         return false;
     }
 
-    private void UsingRecursionHelper(T start, List<T> visited) {
+    private boolean UsingRecursionHelper(T start, T end, List<T> visited) {
+        if (start.equals(end)) return true;
+
         if (!visited.contains(start)) {
             visited.add(start);
             for (T v : adjList.getOrDefault(start, new ArrayList<>())) {
                 if (!visited.contains(v)) {
                     dfsUsingRecursionHelper(v, visited);
+                    return true;
                 }
             }
         }
+        return false;
     }
 
 }
